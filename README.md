@@ -1,6 +1,6 @@
 👋 Bonjour,
 
-I'm Maxence, I'm junior web developer 👨‍💻 based in Chartres, France.
+I'm Maxence, I'm junior web developer based in Chartres, France.
 
 <!---
 maxencevallee/maxencevallee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
